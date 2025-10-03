@@ -1,5 +1,5 @@
-Automatic Light Controller using LDR and Arduino UNO Controller
-AIM:
+**Automatic Light Controller using LDR and Arduino UNO Controller
+**AIM:
 To design and simulate an automatic light controller using an LDR and Arduino UNO controller in Proteus.
 Software Required:
 Arduino IDE
